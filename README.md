@@ -1,0 +1,2 @@
+# factorio_blue_print
+個人で使用するBluePrint
